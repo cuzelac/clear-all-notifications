@@ -5,6 +5,7 @@ Adapted from [Terry's fantastically helpful answer on superuser.com](http://supe
 ## Usage
 
 1. open `close-all-notifications` in Script Editor
+    * `open -a 'Script Editor' ./close-all-notifications.scpt`
 1. `File > Export...` as File Format: Application
 1. Try it out - you'll probably need to grant accessibility permissions
    to the new application
